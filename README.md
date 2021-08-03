@@ -1,6 +1,6 @@
 <h1 align="center">👋こにちわ， Droppeyです！🌊</h1>
 <h3 align="center">An amateur coder/ stocks & options trader.</h3>
-![image(https://raw.githubusercontent.com/droppey/droppey/main/Welcome.gif)
+![image](https://raw.githubusercontent.com/droppey/droppey/main/Welcome.gif)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=droppey&label=Profile%20views&color=0e75b6&style=flat" alt="droppey" /> </p>
 
 - 🔪 Currently working on [ときのそら](https://github.com/droppey/tokinosora)
