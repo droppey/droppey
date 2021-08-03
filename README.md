@@ -1,6 +1,8 @@
 <h1 align="center">👋こにちわ， Droppeyです！🌊</h1>
 <h3 align="center">An amateur coder/ stocks & options trader.</h3>
-<h3 align="center">![image](Welcome.gif)</h3>
+<h3 align="center"><p>
+    <img src="Welcome.gif"/>
+</p></h3>
 
 - 🔪 Currently working on [ときのそら](https://github.com/droppey/tokinosora)
 
