@@ -1,4 +1,4 @@
-<h1 align="center">👋こにちわ， Droppeyです！🌊</h1>
+<h1 align="center">👋こんにちわ， Droppeyです！🌊</h1>
 <h3 align="center">An amateur coder/ stocks & options trader.</h3>
 <h3 align="center"><p>
     <img src="Welcome.gif"/>
