@@ -14,7 +14,7 @@
 
 <h3 align="left">Find me at:</h3>
 <p align="left">
-<a href="https://twitter.com/dr0ppey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dr0ppey" height="30" width="40" /></a><a href="https://fb.com/droppey" target="blank"></a><a href="https://instagram.com/dr0ppeyx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dr0ppeyx" height="30" width="40" /></a><a href="https://www.youtube.com/c/droppey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="droppey" height="30" width="40" /></a>
+<a href="https://twitter.com/dr0ppey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dr0ppey" height="30" width="40" /></a><a href="https://www.youtube.com/c/droppey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="droppey" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages I understand:</h3>
